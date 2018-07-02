@@ -1,4 +1,4 @@
-package com.appsflyer.androidsampleapp;
+package com.winclap.androidsampleapp;
 
 import android.app.Application;
 import android.util.Log;
@@ -16,7 +16,7 @@ import java.util.Map;
 public class AFApplication extends Application {
 
 
-    private static final String AF_DEV_KEY = "AF_DEV_KEY";
+    private static final String AF_DEV_KEY = "coBaq2YExZhapiSdhRbqSE";
 
 
     @Override
